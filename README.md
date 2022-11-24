@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @Hens743
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning data science
--    I'm currently working on  
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me via email
+Dear developer and reader,
+
+I am Hens743. I am a data analyst.
+
+    🔭 I’m currently working on Streamlit dashboard lately
+    🌱 I’m currently learning data science
+    👯 I’m looking to collaborate on data tech
+    🤔 I’m looking for help with ...
+    💬 Ask me about web coding languages elearning.
+    📫 How to reach me: via email
+    ⚡ Fun fact: you can corrupt me with one mango icecream.
+
 
 <!---
 Hens743/Hens743 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

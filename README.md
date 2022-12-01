@@ -3,12 +3,12 @@ Dear developer and reader,
 I am Hens743. I am a data analyst.
 
     🔭 I’m currently working on Streamlit dashboard lately
-    🌱 I’m currently learning data science
-    👯 I’m looking to collaborate on data tech
+    🌱 I’m currently learning data science and git hub
+    👯 I’m looking to collaborate on data project
     🤔 I’m looking for help with Streamlit
     💬 Ask me about w...
     📫 How to reach me: via email
-    ⚡ Fun fact: you can corrupt me with one mango icecream.
+    ⚡ Fun fact: not yet.
 
 
 <!---

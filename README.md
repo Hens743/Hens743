@@ -6,7 +6,7 @@ I am Hens743. I am a data analyst and front-end developer for Data Science (Stre
     🌱 I’m currently improving my data science knowledge in M.L and version control software (git)
     👯 I’m looking to collaborate on data project
     🤔 I’m currently working on different projects around Athlete's performance
-    💬 Don't be shy and reach out !
+    💬 Don't be shy and reach me out !
     📫 How to reach me: via email
     ⚡ Fun fact: not yet.
 
